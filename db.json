@@ -1,0 +1,314 @@
+{
+  "banner_2": {
+    "title": "Who we are",
+    "body": "We are an IT services start-up based out of Bangalore, India. We specialize in providing software solutions that are both efficient and intuitive at the same time. Our team of qualified professionals use tried and tested development processes to achieve an amazing combination of speed, quality and precision."
+  },
+  "card_data": [
+    {
+      "id": "1",
+      "title": "WEBSITE DEVELOPMENT",
+      "body": "In the era of ubiquitous computing, a Business portfolio optimized for devices of all sizes is a must! With the use of frameworks like Gatsby...",
+      "image": "website-development",
+      "link": "web-development"
+    },
+    {
+      "id": "2",
+      "title": "PRODUCT DEVELOPMENT",
+      "body": "Have an idea and need a 'Technology partner' to bring your idea to life? With our expertise of developing applications from scratch, you...",
+      "image": "product-development",
+      "link": "custom-applications"
+    },
+    {
+      "id": "3",
+      "title": "FRONT-END DEVELOPMENT",
+      "body": "Our expertise with Angular and React.js will ensure that your Back-end APIs will get best User Interfaces without comprimising the user...",
+      "image": "front-end-development",
+      "link": "ui-development"
+    },
+    {
+      "id": "4",
+      "title": "QA & TESTING SERVICES",
+      "body": "An important part of User Experience is an applications without bugs. Our QA services, both Manual and Automation, will work as an exten...",
+      "image": "quality-assurance-services",
+      "link": "web-development"
+    },
+    {
+      "id": "5",
+      "title": "HYBRID APP DEVELOPMENT",
+      "body": "Don't want the hassle of managing two versions (Android and iOS) of the same app? Hybrid Apps is the answer for that, with Facebook and...",
+      "image": "hybrid-mobile-app-development",
+      "link": "hybrid-mobile-apps"
+    },
+    {
+      "id": "6",
+      "title": "SUPPORT & MAINTENANCE",
+      "body": "Our dedicated support team can handle your customer tickets and well as work on your application to help you add new features to...",
+      "image": "support-and-maintenance",
+      "link": "web-development"
+    }
+  ],
+
+  "clients": [
+    {
+      "url": "https://github.com/mozilla/bugzilla-dashboard",
+      "image": "mozilla-logo.png",
+      "caption": "Mozilla"
+    },
+    {
+      "url": "https://flutura.com/",
+      "image": "flutura-logo-blue.png",
+      "caption": "Flutura Decision Sciences Private Limited"
+    },
+    {
+      "url": "https://www.oman-oil.com/index.php",
+      "image": "OOC_logo.png",
+      "caption": "Oman Oil Company"
+    },
+    {
+      "url": "https://gethyphen.com/",
+      "image": "gethyphen.png",
+      "caption": "getHyphen"
+    },
+
+    {
+      "url": "https://pacewisdom.com/",
+      "image": "pacewisdom-logo.png",
+      "caption": "Pace Wisdom Solutions Private Limited"
+    },
+
+    {
+      "url": "https://www.honeydue.com/",
+      "image": "honeydue-logo.png",
+      "caption": "Honeydue"
+    },
+
+    {
+      "url": "http://addresshealth.in/web/",
+      "image": "AddressHealth.png",
+      "caption": "AddressHealth Solutions India Pvt Ltd"
+    }
+  ],
+
+  "about_para": [
+    {
+      "body": "Zysk Technologies is a web and mobile application development company located in the IT heartland of Bangalore, India. Our primary focus is providing professional, cost effective road maps and solutions for our clients projects. We offer a variety of services like web design, web development, app development, search engine optimization and social media management. With a team of qualified professionals, we are dedicated to delivering quality services for the success of our client's projects."
+    }
+  ],
+
+  "about_display_sections": [
+    {
+      "title": "UPTO DATE WITH TECHNOLOGY",
+      "body": "The world today, particularly in the context of technology is moving at turbo speed. Your business stands the risk of becoming obsolete unless you keep up with all the developments in your industry. With the use of the latest and most effective technologies, we'll help ensure that your business always stays relevant to your audience.",
+      "image": "latest-technologies",
+      "animation_class": "technology"
+    },
+    {
+      "title": "GREAT SERVICE",
+      "body": "Our team of designers and developers boast a strong knowledge of programming languages and the variety of skills they bring to the table makes us versatile. It helps us meet new challenges and add value to your business.",
+      "image": "great-service",
+      "animation_class": "service"
+    },
+    {
+      "title": "DELIVER TOP QUALITY APPLICATIONS",
+      "body": "Be it design, UX or optimization, we ensure that you only get the best websites and applications when you engage our services. Our prompt support and maintenance services have won us the admiration of clients.",
+      "image": "quality-applications",
+      "animation_class": "quality"
+    },
+    {
+      "title": "ENTHUSIASM AND INNOVATION",
+      "body": "More than anything else, our passion for all things tech drives us to learn more and do more. We love to explore new problem-solving approaches, which help us offer the simplest, most innovative solutions.",
+      "image": "innovative-solutions",
+      "animation_class": "innovation"
+    }
+  ],
+
+  "services": [
+    {
+      "type": "web-development",
+      "banner_img": "website-development.svg",
+      "title": "WEBSITES",
+
+      "paragraphs_col_1": [
+        {
+          "text": "4.5 billion people, i.e. ~54% of the population of the world use Internet!",
+          "class": "simple-para"
+        },
+        {
+          "text": "With such a large audience, being present online has become a defacto standard for any business. Customers of all sizes rely on the information available online before making a decision.",
+          "class": "simple-para"
+        },
+        {
+          "text": "Unlike the the 90s, it is no longer enough JUST to have a website, it’s important that people are able to find you online.",
+          "class": "highlight red"
+        },
+        {
+          "text": "Websites require attention-to-detail to increase the chances of converting a prospect into a customer. Our team of Creative Designers and Developers understand the demographics of your customers and create tailor-made experiences that both your customers and Google bots love. 52% of all website traffic worldwide is generated through mobile phone so all our web solutions are mobile enabled and mobile responsive.",
+          "class": "simple-para"
+        }
+      ],
+      "paragraphs_col_2": [
+        {
+          "text": "Along with Website Designing & Development, Website optimization, Website Hosting, Google Analytics & Social Media setup, Business Emails setup and Search Engine Optimization we create an all-round solution to set the ball rolling for your business.",
+          "class": "highlight"
+        }
+      ],
+      "images": [
+        { "url": "bootstrap-logo.svg" },
+        { "url": "sass.svg" },
+        { "url": "wordpress-logo.svg" },
+        { "url": "gulp-logo.svg" },
+        { "url": "bower-logo.svg" },
+        { "url": "gatsbyjs-logo.svg" },
+        { "url": "grunt-logo.svg" }
+      ]
+    },
+
+    {
+      "type": "custom-applications",
+      "banner_img": "product-development.svg",
+      "title": "Product Development",
+
+      "paragraphs_col_1": [
+        {
+          "text": "Have the next big idea? We’ll help you realise it.",
+          "class": "highlight red"
+        },
+        {
+          "text": "Our comprehensive and scalable technology solutions will support you in achieving your business goals both in short and long term. From design to deployment we take care of every facet of the product development life cycle. Our experience in developing products enables us to bring valuable insights to the table to help you further your product idea.",
+          "class": "simple-para"
+        },
+        {
+          "text": "With Open Source Technologies evolving faster than ever, our geeky team ensure that we stay up-to date and the tech stacks we use stays current for at least 24 months. Great user interface design with quality code is our Mantra for excellent user experiences.",
+          "class": "simple-para"
+        }
+      ],
+      "paragraphs_col_2": [
+        {
+          "text": "We take pride in having worked as technology partners with some of the most promising startups in India and we’re rearing to get started with yours!",
+          "class": "highlight"
+        },
+        {
+          "text": "We have extensive experience in working with:",
+          "class": "highlight"
+        }
+      ],
+      "images": [
+        { "url": "angular-logo.svg" },
+        { "url": "laravel-logo.svg" },
+        { "url": "django-logo.svg" },
+        { "url": "amazon-web-services-logo.svg" },
+        { "url": "mysql-logo.svg" },
+        { "url": "react-logo.svg" }
+      ]
+    },
+    {
+      "type": "ui-development",
+      "banner_img": "front-end-development.svg",
+      "title": "Front End Development",
+
+      "paragraphs_col_1": [
+        {
+          "text": "Design is not just what it looks like and feels like. Design is how it works. — Steve Jobs",
+          "class": "highlight red"
+        },
+        {
+          "text": "Front-end creates the first impression of your product. Providing a great experience when using your product along with a pretty outlook is what we thrive at. Our UI/UX services are perfect for solutions that require APIs to be developed in-house.",
+          "class": "simple-para"
+        },
+        {
+          "text": "Strong understanding of popular design principles coupled with our expertise in developing great front-end using Angular and ReactJS makes us a force to reckon with. The partnership of our front-end team with the expertise of your backend team will make sure we develop a product that is both useful and intuitive.",
+          "class": "simple-para"
+        }
+      ],
+      "paragraphs_col_2": [
+        {
+          "text": "Our understanding of tools like Bitbucket and Jira helps us work effectively and efficiently in teams and thereby to develop applications quickly without compromising the code quality !",
+          "class": "highlight"
+        },
+        {
+          "text": "We have extensive experience in working with:",
+          "class": "simple-para"
+        }
+      ],
+      "images": [
+        { "url": "react-logo.svg" },
+        { "url": "angular-logo.svg" },
+        { "url": "vue-logo.svg" }
+      ]
+    },
+    {
+      "type": "hybrid-mobile-apps",
+      "banner_img": "hybrid-mobile-app-development.svg",
+      "title": "Hybrid Mobile App Development",
+
+      "paragraphs_col_1": [
+        {
+          "text": "For businesses looking to maximize their chances of success, targeting mobile devices can mean the difference between success and obscurity.",
+          "class": "highlight red"
+        },
+        {
+          "text": "Our user-centric designs, and cost-effective hybrid mobile app solutions are perfect for your next big product idea. We develop cross-platform apps using a single codebase with the help of popular hybrid application frameworks like Ionic and React Native.",
+          "class": "simple-para"
+        },
+        {
+          "text": "“Cross-platform” goes beyond just iOS and Android, it means a consistent and intuitive user experience across mobile and desktop, web and app store, phone and tablet.",
+          "class": "simple-para"
+        }
+      ],
+      "paragraphs_col_2": [
+        {
+          "text": "According to recent reports, Hybrid mobile apps are beginning to dominate the app stores. Leading this trend are apps like Facebook, Walmart, Bloomberg and Instagram. Hybrid Mobile Apps are the new age solution for the new-age company.",
+          "class": "highlight"
+        },
+        {
+          "text": "We have extensive experience in working with:",
+          "class": "simple-para"
+        }
+      ],
+      "images": [{ "url": "react-native.svg" }]
+    }
+  ],
+
+  "contact": {
+    "contact_para": "We love coffee and good conversations, if you'd like to meet us, feel free to drop by.",
+    "contact_title": "Say Hello!"
+  },
+
+  "meta_data": [
+    {
+      "page": "home",
+      "title": "Web Development Startup | Zysk Technologies",
+      "description": "Zysk Technologies an IT services startup based out of Bangalore that offers attractive websites and applications with a team of qualified professionals."
+    },
+    {
+      "page": "about-us",
+      "title": "About Zysk Technologies | Web Apps Development Startup Bangalore",
+      "description": "Zysk Technologies an IT services startup based out of Bangalore that offers attractive websites and applications with a team of qualified professionals."
+    },
+    {
+      "page": "contact",
+      "title": "Contact Zysk Technologies | Leading Web Development Company In Bangalore",
+      "description": "Feel free to contact Zysk Technologies, Nagarbhavi,Bangalore. Reach us today at contact@zysk.in to know more about our services."
+    },
+    {
+      "page": "web-development",
+      "title": "Web Design and Web Development Startup in Bangalore| Zysk Technologies",
+      "description": "Zysk Technologies develops responsive and attractive websites and offers services like Web Designing, Website Optimization, Web Hosting, Google Analytics and SEO."
+    },
+    {
+      "page": "ui-development",
+      "title": "UI/UX Design and Development Company Bangalore | Zysk Technologies",
+      "description": "Zysk Technologies is a Bangalore based UI/UX design and development company with expertise in front-end frameworks like Angular, React.js and Vue.js."
+    },
+    {
+      "page": "custom-applications",
+      "title": "Product Development at Zysk Technologies Bangalore",
+      "description": "Zysk Technologies offers product development services for individuals and startups who want to bring their ideas to life with the use of latest technologies."
+    },
+    {
+      "page": "hybrid-mobile-apps",
+      "title": "Web Design and Web Development Startup in Bangalore| Zysk Technologies",
+      "description": "Zysk Technologies develops responsive and attractive websites and offers services like Web Designing, Website Optimization, Web Hosting, Google Analytics and SEO."
+    }
+  ]
+}
