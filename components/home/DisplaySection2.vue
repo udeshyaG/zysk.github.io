@@ -47,7 +47,7 @@ export default {
 
     beforeEnterImage(el) {
       el.style.opacity = 0
-      el.style.transform = 'rotate(-20deg)'
+      el.style.transform = 'translate(-20px, 0)'
     },
 
     enterPara(el, done) {
@@ -77,8 +77,7 @@ export default {
         },
         duration: 1.5,
         opacity: 1,
-
-        rotation: 0,
+        x: 0,
         onComplete: done,
       })
     },

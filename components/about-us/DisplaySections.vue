@@ -44,7 +44,7 @@ export default {
   methods: {
     beforeEnter(el) {
       el.style.opacity = 0
-      el.style.transform = 'rotate(20deg)'
+      el.style.transform = 'translate(-20px)'
     },
 
     enterPara(el, done) {
@@ -59,8 +59,7 @@ export default {
         },
         opacity: 1,
         duration: 1.5,
-        rotation: 0,
-        x: 20,
+        x: 0,
 
         onCompleted: done,
       })
@@ -68,7 +67,7 @@ export default {
 
     beforeEnterImage(el) {
       el.style.opacity = 0
-      el.style.transform = 'scale(1.2)'
+      el.style.transform = 'scale(0.7)'
     },
 
     enterImage(el, done) {
@@ -83,9 +82,7 @@ export default {
         },
         opacity: 1,
         duration: 1.5,
-
         scale: 1,
-
         onCompleted: done,
       })
     },

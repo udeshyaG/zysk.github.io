@@ -75,7 +75,15 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  buildModules: [],
+  buildModules: ['@nuxtjs/google-analytics'],
+
+  googleAnalytics: {
+    id: 'UA-66233587-1',
+    debug: {
+      enabled: true,
+      sendHitTask: true,
+    },
+  },
   /*
    ** Nuxt.js modules
    */
@@ -84,7 +92,26 @@ export default {
     'bootstrap-vue/nuxt',
     // Doc: https://axios.nuxtjs.org/usage
     '@nuxtjs/axios',
+    '@nuxtjs/amp',
+    '@nuxt/content',
+    '@nuxtjs/sitemap',
   ],
+  amp: {
+    origin: 'http://localhost:3000',
+    mode: 'hybrid',
+  },
+
+  sitemap: {
+    hostname: 'https://zysk.in',
+    gzip: true,
+
+    routes: [
+      '/services/web-development',
+      '/services/custom-applications',
+      '/services/ui-development',
+      '/services/hybrid-mobile-apps',
+    ],
+  },
   /*
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options

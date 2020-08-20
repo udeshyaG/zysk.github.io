@@ -44,8 +44,7 @@ export default {
   methods: {
     beforeEnter(el) {
       el.style.opacity = 0
-      el.style.scale = 0
-      el.style.transform = 'rotate(20deg)'
+      el.style.transform = 'scale(0.8)'
     },
 
     enter(el, done) {
@@ -59,7 +58,6 @@ export default {
           toggleActions: 'restart pause reverse none',
         },
         opacity: 1,
-        rotation: 0,
         duration: 1.5,
         scale: 1,
         y: 0,

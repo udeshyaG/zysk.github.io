@@ -48,6 +48,9 @@
           </div>
         </li>
         <li class="nav-item">
+          <nuxt-link class="nav-link" to="/blog">Blogs</nuxt-link>
+        </li>
+        <li class="nav-item">
           <nuxt-link class="nav-link" to="/contact">Contact</nuxt-link>
         </li>
       </ul>

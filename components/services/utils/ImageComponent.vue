@@ -23,15 +23,14 @@ export default {
   methods: {
     beforeEnter(el) {
       el.style.opacity = 0
-      el.style.transform = 'rotate(15deg)'
+      el.style.transform = 'scale(0)'
     },
 
     enter(el, done) {
       gsap.to(el, {
         duration: 1.5,
         opacity: 1,
-        x: 0,
-        rotation: 0,
+        scale: 1,
         delay: 2.5,
         onComplete: done,
       })

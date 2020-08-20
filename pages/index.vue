@@ -9,7 +9,11 @@
         <h1 class="header pb-3">What we do</h1>
       </header>
       <div class="d-flex flex-wrap">
-        <Cards v-for="(data, index) in cardData" :key="index" :cardInfo="data" />
+        <Cards
+          v-for="(data, index) in cardData"
+          :key="index"
+          :cardInfo="data"
+        />
       </div>
     </section>
 
@@ -19,8 +23,14 @@
         <h1 class="header pb-5">Our Clients</h1>
       </header>
 
-      <div class="d-flex justify-content-around align-items-center mb-md-4 flex-wrap">
-        <Clients v-for="(data, index) in clientData" :key="index" :clientInfo="data" />
+      <div
+        class="d-flex justify-content-around align-items-center mb-md-4 flex-wrap"
+      >
+        <Clients
+          v-for="(data, index) in clientData"
+          :key="index"
+          :clientInfo="data"
+        />
       </div>
     </section>
   </div>
